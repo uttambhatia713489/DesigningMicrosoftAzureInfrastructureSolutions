@@ -1,2 +1,4 @@
 # DesigningMicrosoftAzureInfrastructureSolutions
 DesigningMicrosoftAzureInfrastructureSolutions
+
+https://microsoftlearning.github.io/AZ-305-DesigningMicrosoftAzureInfrastructureSolutions/Instructions/CaseStudy/01-Governance.html
